@@ -1,10 +1,11 @@
-# ArchitecturalAndDesignPatterns
-📖 Presentations I gave on various architectural and design patterns.
+# Architectural And Design Patterns
+_📖 Short keynotes I gave on various architectural and design patterns._
 
-### 🏛 Architectural Patterns
-- VIP: View - Interactor - Presenter
+## 🏛 Architectural Patterns
 
-### 🖼 Design Patterns
-- Dependency Injection
-- Flyweight
-- Strategy
+- [x] VIP: View - Interactor - Presenter
+
+## 🖼 Design Patterns
+- [x] Dependency Injection
+- [x] Flyweight
+- [x] Strategy
